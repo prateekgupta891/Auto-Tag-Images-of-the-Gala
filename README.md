@@ -1,6 +1,6 @@
 # HackerEarth Prize Competition- Auto-Tag Images of the Gala
 
-This is a challenge hosted on HackerEarth and last date of submission was 7th April.
+This is a challenge hosted on HackerEarth and last date of submission was 7th April 2020.
 
 ## Description
 
@@ -44,6 +44,8 @@ sample_submission
     score = 100 * f1_score ( actual_values, predicted_values, average = 'weighted' )
 
 Note: To avoid any discrepancies in the scoring, ensure all the index column ('Image_File') values in the submitted file match the values in the provided **test.csv** file.
+
+[Competition Link](https://www.hackerearth.com/challenges/competitive/hackerearth-deep-learning-challenge-auto-tag-images-gala/machine-learning/auto-tag-images-of-the-gala-9e47fb31/)
 
 ## My understanding of the competition
 
