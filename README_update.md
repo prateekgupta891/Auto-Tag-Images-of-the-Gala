@@ -49,21 +49,19 @@ Note: To avoid any discrepancies in the scoring, ensure all the index column ('I
 
 ## My understanding of the competition
 
-It is simple classification problem with evaluation metric as f1_score. Pre-trained classification architectures like resnet's, efficientNets will work fine, with suitable data augmentations and regularizations. Hoping for a simple solution as my first tries.
+It is a simple classification problem with evaluation metric as f1_score. Pre-trained classification architectures like Resnet or EfficientNet will work fine, with suitable data augmentations and regularizations. Hoping for a simple solution as my first try.
 
 ## My approach
 
-1) Check class distribution for class imbalace
-2) Training Images Viualization 
-3) Image Shape Variations to set the resize values
-4) Creating Folders for Dataset
+1) Check class distribution for class imbalance
+2) Train Images Visualization 
+3) Check image shape variations to set the resize values
+4) Create folders for dataset
 5) Normalization Parameter
-6) Training DataLoader and its visualization to set optimum
-data augmentation parameters
-7) Training for KFold Classification batch wise with SGD loss
-8) Saving best checkpoints based on best achieved validation score.
-9) Predictions using all the models( from each fold ) based on
-mean probability for each class over all the folds.
+6) Train DataLoader and its visualization to set optimum data augmentation parameters
+7) Train for KFold Classification batch wise with SGD loss
+8) Save the best checkpoints based on best-achieved validation score.
+9) Predictions using all the models( from each fold ) based on mean probability for each class over all the folds.
 
 ## Files
 
@@ -79,4 +77,4 @@ Any contributions to my approach, involving enhancement, typos etc. will be high
 ## Issues
 
 Do raise issues in case of any doubts or problems which may arise while running the code. 
-(folder location issues may come, will recommend to give it a few tries before creating an issue.)
+(folder location issues may arise, will recommend to give it a few tries before creating an issue.)
