@@ -63,6 +63,13 @@ data augmentation parameters
 9) Predictions using all the models( from each fold ) based on
 mean probability for each class over all the folds.
 
+## Files
+
+1) [Ipynb notebook](https://github.com/prateekgupta891/Auto-Tag-Images-of-the-Gala/blob/master/HackerEarth_Gala_Classification.ipynb)
+2) [Open Notebook in colab](https://colab.research.google.com/drive/1WnrQMkQRwlG47pNwBV8BrBaxphzMrN8J)
+3) [Dataset zipped](https://drive.google.com/open?id=1uHPc9sJ8jrKRLBYSo5p4QdAf_Y7cMqLu)
+4) [Dataset with Train folder created(unzipped)](https://drive.google.com/open?id=14V54iwCWYRxmuBgFXk-SwTvRfBRzDwVb)
+
 ## Contributions 
 
 Any contributions to my approach, involving enhancement, typos etc. will be highly appreciated.
