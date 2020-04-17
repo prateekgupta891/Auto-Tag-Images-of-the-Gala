@@ -1,6 +1,13 @@
 # HackerEarth Prize Competition- Auto-Tag Images of the Gala
 
 This is a challenge hosted on HackerEarth and last date of submission was 7th April 2020.
+## Major Highlights
+
+1) Basic Pytorch Image Classification Code
+2) Data Augmentation and Visualization 
+3) Data Exploration and finding the correct normalization parameters.
+
+**Please give it a star if you like it.**
 
 ## Description
 
