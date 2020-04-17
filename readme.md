@@ -6,6 +6,8 @@ This is a challenge hosted on HackerEarth and last date of submission was 7th Ap
 1) Basic Pytorch Image Classification Code
 2) Data Augmentation and Visualization 
 3) Data Exploration and finding the correct normalization parameters.
+4) KFold Classification
+5) Prediction on unlabelled data
 
 **Please give it a star if you like it.**
 
